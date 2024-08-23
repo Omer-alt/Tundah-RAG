@@ -1,0 +1,406 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Article Contents",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 15,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "p. [13]",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 14",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 15",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 16",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 17",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 18",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 19",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 20",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 21",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 22",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 23",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 24",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 25",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 26",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "p. 27",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Issue Table of Contents",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 25,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Journal of Southern African Studies, Vol. 32, No. 1, Women and the Politics of Gender in Southern Africa (Mar., 2006), pp. 1-198",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 24,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Front Matter",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Altering Politics, Contesting Gender [pp. 1-12]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Women, Law and Human Rights in Southern Africa [pp. 13-27]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "'New Things after Independence': Gender and Traditional Authorities in Postcolonial Namibia [pp. 29-48]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Gender Politics and the Pendulum of Political and Social Transformation in Zimbabwe [pp. 49-67]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "'A Second Liberation': Lobbying for Women's Political Representation in Zambia, Botswana and Namibia [pp. 69-84]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "The Liberal Moment: Women and Just Debate in South Africa, 1994-1996 [pp. 85-105]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Engendering Democracy: Domestic Labour and Coalition-Building in South Africa [pp. 107-127]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "'These Women, They Force Us to Rape Them': Rape as Narrative of Social Control in Post-Apartheid South Africa [pp. 129-144]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Organising against Gender Violence in South Africa [pp. 145-163]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "The Care Economy: Gender and the Silent AIDS Crisis in Southern Africa [pp. 165-177]",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Book Reviews",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 11,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: Women and Politics in Southern Africa [pp. 179-180]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: Women and the TRC in South Africa [pp. 180-182]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: Colonialism and Space in Urban Africa [pp. 182-183]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: Postcolonial Lusophone Africa [pp. 183-185]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: Johannesburg I: Emerging Metropolis [pp. 185-186]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: Johannesburg II: Elusive Metropolis [pp. 186-188]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: African Film I: Africa [pp. 189-190]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: African Film II: South Africa [pp. 191-192]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: NGOs in Zimbabwe in the 1990s [pp. 192-193]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: Land, State and Nation in Contemporary Zimbabwe [pp. 194-196]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Review: Bringing the Body Home: The Story of El Negro [pp. 196-197]",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Back Matter",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        }
+    ],
+    "pages": 16,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 32,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

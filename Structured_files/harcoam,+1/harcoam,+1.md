@@ -1,0 +1,97 @@
+# Marriage Practices And Intercultural Communication: The Case Of African Communities
+
+MJ Mafela University of South Africa mafelmj@unisa.ac.za
+
+## Abstract
+
+Marriage practices differ from one culture to another. In African communities, marriage is not considered an individual affair that legalises the relationship between a man and a woman. However, it is a group concern because it is not only a union between husband and wife, but one between the family of the husband as well as the wife's family. Marriage in African communities is not reciprocal, i.e. a man and a woman do not marry each other. 
+
+Rather, a man marries a woman. On the other hand, marriage bride-wealth given to a woman's family is not a payment, but a gesture to establish an alliance between the two families. In a multicultural society such as South Africa these practices often create communication problems, especially where intermarriage is involved. This paper seeks to highlight competencies in interacting across cultures in a multicultural society with the emphasis on marriage practices.
+
+## Introduction
+
+The concept 'marriage' is interpreted differently in societies around the world. Generally, marriage can be defined as a legal union between a man and a woman in order to live together and to have children (Allen, 1990:727). Okonkwo (2003:30) defines marriage as "… a natural and human reality. By its nature, it is a social fact, a bond that unites man and woman, one that usually leads to a community of parents and children". Commenting on marriage among the Jews, Baily (1959:1) says that marriage has always been held in relatively high esteem, not primarily for its rational value, but because it was a means of propagating the Holy People, of maintaining the institution of the family as the basis of the society, and for assuring a shadowy semblance of immorality to a man in the offspring which he had begotten. According to Okonkwo (2003), every culture in the world recognises some form of marriage institution and some way of classifying people socially, based on blood relationship and 
+
+## 1
+
+relationship through marriage. Marriage implies customs, obligations and ethical standards among a particular people or culture. African societies differ from many other world societies because they believe more in communal existence than in the autonomy of the individual. The concept of "marriage" in the African context suggests a relationship between two kinship groups, rather than a contract between two individuals (Brown & Thakur, 1997). Many parts of the world are becoming multicultural; this in turn leads to intermarriage.
+
+Intermarriage here refers to marriage between members of different racial, social, cultural or religious groups. Intermarriage is becoming the predominant practice in multicultural societies such as South Africa. Since marriage practices differ from one culture to another, people engaging in intermarriage encounter communication problems which in some instances may lead to conflict. For example, some people see marriage as a contract between two individuals, whereas others see it as a communal practice. This paper seeks to highlight African marriage practices with the aim of equipping individuals with the necessary knowledge to interact across cultures.
+
+## Intercultural Communication
+
+Intercultural communication is by definition a process by which communication takes place between people from two or more cultures (Wonkeryor, 1998:4). This involves the concepts necessary to understand people from other cultures and their patterns of communication. Through intercultural communication people from different cultures create shared meanings (Lustig &
+Koester, 1999:37). Gudykunst and Kim (1992:14) define intercultural communication as a transactional, symbolic process involving the attribution of meaning between people from different cultures. The present age is characterised by increased mobility around the world. With the introduction of modern means of transport, it has become easy for people to reach different destinations for a variety of purposes: employment, seeking better education, or simply travelling for its own sake. Piller (2003:344) writes: 
+Globalization is characterized by unprecedented numbers of people moving around the world; be it for the purposes of study, employment, pleasure, to flee from persecution, to name but a few. Obviously each instance of international mobility increases the chances for people to meet and find a partner from elsewhere.
+
+A wealth of research in the last three decades has revealed that as people travel and migrate, communication becomes more "intercultural" and "misunderstandings" threaten every encounter (Hartog, 2006:175). Gudykunst and Kim (1992:3) state: 
+The expansion of worldwide communication networks, combined with increases in travel for pleasure or business and international migration of refugees, heightens our awareness of the need for understanding other cultures and their people.
+
+In South Africa, multiracialism was realised with the introduction of a democratic government in 1994. People of different racial and cultural groups were free to communicate and socialise, something that was prohibited before the introduction of democracy. This is in line with Craig-
+Henderson (2006:49) who states: 
+When the interracial relationship is believed to result primarily from largescale changes in patterns of interaction between people from different racial groups, external factors are said to have played a role. When barriers to integration are eliminated, and policies ensuring interracial interaction and assimilation of minorities are implemented, relationships that were previously prohibited or circumscribed now become possible.
+
+As a result of increased mobility and the relaxation of the policy of separate development in countries such as South Africa, cross-cultural relationships became possible. Today men and women are involved in intimate interracial relationships and marriage. Couples from different national and/or linguistic backgrounds come into existence. This type of marriage relationship is often accompanied by intercultural communication problems. As indicated above, intercultural communication is concerned with communication across cultures. People should understand the culture of other societies in order to minimise communication problems. Without adequate knowledge of other communities' cultures, one may fail to understand the meaning of certain concepts and behaviours in other languages. For instance, there are stylistic differences in marriage practices in different societies: in the African understanding, marriage is associated with the elders of the two families, i.e. the family of the man and the family of the woman, whereas in Western cultures, marriage is associated with the individuals, i.e. a man and a woman.
+
+## Marriage Practices In African Societies
+
+As stated before, African societies do not consider marriage as an individual affair to legalise the relationship between a man and a woman. However, tt is a collective concern because it is not a union between husband and wife only, but a union between two families as well. An African marriage is therefore a contract between two clans and not a direct commitment between the husband and wife. According to Okonkwo (2003:31), marriage in the Igbo tradition is 
+… a contract between not only the two persons concerned, but also a matter of general concern for all members of the kin. All the members take it as their natural and cultural duty to find a suitable girl who is to become a member of their household. It is not just an affair between a man and a woman.
+
+Marriage involves the whole extended family and to some African communities, the village. Both the man and the woman must obtain approval from the entire family. For example, a young man would not personally approach his prospective father-in-law and ask for the daughter's hand in marriage. The young man would instead make his intentions known to the elders in his family, and they would approach the family of the young woman. Weinrich (1983:48) argues that
+… [a]lthough young people today try to choose their own spouses, their marriage remains the concern of their respective families and hardly any spouse dares to marry without their families' approval. They may exchange love tokens without informing their elders, but before finalizing their choice, they seek the consent of their families. The families' involvement in a marriage is still one of the strongest factors making for stability.
+
+Mathu (1971:1) bases the definition of marriage on the interpretation of the Gikuyu and explains the concept as follows:
+Among the Gikuyu customs which constitute their traditional ways of life, marriage is understood as a way of establishing and classifying social relations. It is related to the entire social structure and is part of the relatively stable web of social relations which gives a society its distinctive integration.
+
+Marriage is another way in which an individual shares in group life; it is the basis of the creation of interrelationship between different groups of people. Marriage is a union between two groups, which through marriage start a complex system of interrelationships bound to operate for a long time (Cutrufelli, 1983:42). This is supported by Okonkwo (2003:32) who states that in African culture, "to marry" means to establish continuous relations between the two families. This is so because marriage is firmly rooted in a society where the propagation of life is essentially a communal rather than just an individual concern. As stated earlier, marriage in African societies is not reciprocal, i.e. a man and a woman do not marry each other; a man marries a woman and a woman is married by the man. This means that a man takes a woman. As a result, the man is expected to offer bride-wealth for the woman. The woman in turn leaves her parents and joins the family of the man. She abandons her family name and adopts that of the husband. In contrast, in Western European societies a man and a woman get married to each other, and the families typically play a lesser role. As indicated above, in African societies the man is expected to offer bride-wealth for the woman. Bride-wealth has different names in different societies. Terms such as bride-price, marriage proceeds, dowry, etc. are used to refer to bride-wealth. In South African languages, some of the terms used to denote bride-wealth are *thundu* (Tshivenḓa), *magadi* (Sotho languages) and *ilobolo*
+(Nguni languages). *Ilobolo* is commonly used by all South Africans to refer to bride-wealth. Simons (1968:87) writes that *ilobolo* "… is a Zulu noun. It describes a man's obligation to give cattle, horses, hoes, money or other property to the father of his intended bride or wife in consideration of their marriage." In the past *ilobolo* was offered in the form of cattle, but more recently both money and cattle may be used to make this compensation. Without the offer of bride-wealth, the marriage between the individuals will not be recognised by both sides, i.e. the family of the woman and that of the man. When the man's family asks for the woman's hand from her family, and the request is accepted, the man will be asked to offer bride-wealth. However, this bride-wealth is not associated with buying something, but is regarded rather as a gesture to establish an alliance between the two families. Hence, in Tshivenḓa it is called *thundu,* meaning *goods.* People who are not aware of this aspect of African culture might interpret this as a form of purchase. In this regard, Monger (2004:40) says: 
+The bride-price was paid in money, goods or cattle or in labour and was often seen as compensation to the kin group for the loss of the young woman to another group. To the outsider, the payment of bride-price or bride-wealth might appear to be a form of purchase.
+
+The bride-wealth is not a commercial transaction in which a father sells his daughter to another man. This confirms that it is not payment. The father does not expect to make a profit out of his daughters. Instead, this bride-wealth is associated with a marriage agreement between family 5 groups. In African societies, the gift of bride-wealth is interpreted as a gesture of appreciation to the woman's group. It should not be misinterpreted as a purchase. Okonkwo (2003:56) states: 
+The habit of presenting a gift by the prospective husband to the bride's family is done throughout Africa, though in varying degrees. This marriage gift is an important institution in African societies. It is a token of gratitude from the bridegroom's people to those of the bride, for their care over her and for allowing her to become his wife. … This surely is not a form of 'payment' as outsiders have so often mistakenly said.
+
+As stated earlier, without the gift of bride-wealth no relations will be recognised by either family. 
+
+Kyewalyanga (1978:51) supports the above assertion: 
+It is the payment of the bride-price which makes marriage valid in most African cultures. The bride-price seals the marriage contract. It acts as a guarantee of the stability of the marriage. The bride-price is compensation to the girl's parents for the loss of a daughter who has been an assisting person in the family. It must be emphasized that though the bride-price seems to imply the buying of a wife, it is neither a buying nor is it intended to mean this. A wife, after the payment of the bride-price, does not become a husband's property.
+
+The husband's power in relation to his wife is not that which buyers acquire over the goods they buy. According to Simons (1968:88), the husband
+… does not 'own' his wife in any sense. He cannot destroy her, sell her or lease her to another person. He cannot 'repudiate' the marriage and recover the lobolo because of her 'latent defects'. He is legally obliged to maintain her and fulfill the other duties that a husband owes to his wife. He is liable to lose her and forfeit his claim to a return of lobolo if he ill-treats or neglects her.
+
+The bride-wealth does not have an exchange value. Another important function of bride-wealth is to sanction the control of the groom's family over the couple's offspring. Thus, children born to the woman will be recognised as legitimate offspring. The relative importance of children, in turn, influences bride-wealth gifts because bride-wealth is mainly offered to legalise the affiliation of children (Weinrich, 1983:38). When bride-wealth is given, children born out of such a marriage belong to the husband; but if not paid, children are not recognised as his. For example, when a man separates from his wife without having paid the bride-wealth in African societies, the elders will rule that the wife be given custody of the offspring. The children belong to the family of the wife in this regard. However, if the bride-wealth has been paid for the woman, custody of the offspring will be given to the husband and his family. Mathu (1971:2) states: "The right of ownership and control over the socialization of the offspring on the part of the husband is established by means of 'bride-token' 
+(*ruracio*), which is given to the bride's kinsmen by the groom himself, or the groom's father or his kinsmen". Cutrufeli (1983:49) supports the above:
+Marriage goods are not for exchange; actually, by being moved one way or another, they sanction the control of one side over the offspring of a woman from the other side. It is not a matter of exchanging women for dowry items: what is the issue in this circulating process is the offspring anticipated from a woman. It would probably be more accurate to say that dowries circulate not contrariwise to women but to children. Truly, it can be observed that in case of divorce often the dowry is not rendered if the children stay with their father.
+
+The right of ownership of the offspring is practiced differently in other cultural groups. The offspring belong to both husband and wife because the offering of bride-wealth is not recognised.
+
+## Conclusion
+
+Knowledge of African culture regarding marriage practices is of utmost importance to those who wish to involve themselves in intermarriage with Africans. This will minimise any misunderstandings, such as who should be major players in the marriage (families or individuals), 
+the gift of bride-wealth, and ownership of offspring in case of separation or divorce; which might result in conflict. Marriage in African societies means something different to other cultures in the sense that it is communal rather than individualistic. A woman is married to the family of the man, whereas the man becomes the son-in-law to the family of the woman. The value of the involvement of the two families in the marriage is sometimes realised when there is a conflict in the family. The two families will assist in resolving problems between the woman and the man. In many instances, the two families will try to reconcile the two individuals. Under no circumstances will they encourage divorce. According to Nwosu (1999), divorce is not common where this practice is still followed. Marriage is therefore conducted to form strong relationships between two kinship groups. The payment of the bride-wealth is highly regarded in African societies because it legalises the marriage. The bride-wealth paid by the man is not meant to buy the woman, but is a token of appreciation to the parents of the woman, and legalises the affiliation of the offspring. Without bride-wealth there is no marriage in African societies.
+
+## References
+
+Allen, R.E. (ed.). 1990. *The Concise Oxford Dictionary of Current English.* Oxford: Clarendon Press.
+
+Baily, D.S. 1959. *The Man-woman Relation in Christian Thought*. London: Longmans, Green.
+
+Brown, C.K. & Thakur, A.P. 1997. Rural Sociology: A West African Reader No. 1 - *Kinship,* 
+Marriage and the Family. Accra: Ghana University Press.
+
+Craig-Henderson, K.M. 2006. Black Men in Interracial Relationships: What's Love got to do with it? New Brunswick: Transaction Publishers.
+
+Cutrufelli, M.R. 1983. *Women of Africa: Roots of Oppression*. London: Zed Press. Gudykunst, W.B. & Kim, Y.Y. 1992. *Communicating with Strangers: An Approach to* Intercultural Communication (2nd ed.). New York: McGraw-Hill.
+
+Hartog, J. 2006. Beyond 'Misunderstandings' and 'Cultural Stereotype': Analysing Intercultural Communication. In Bührig, K. & J.D. ten Thije, (eds.). Beyond *Misunderstandings:* Linguistic Analysis of Intercultural Communication, Amsterdam: John Benjamins Publishing Company, 175–188.
+
+Kyewalyanga, F-X. S. 1978. Marriage Customs in East Africa: With Special Reference to selected Tribes of Kenya: Akamba, Bantu *Kavirondo, Gusii, Kipsigis, Luo, Nandi, and* Teita. Hohen Shäftlam: Renner Publications.
+
+Lustig, M.W. & Koester, J. 1999. Intercultural Competence: Intercultural Communication Accross Cultures. New York: Longman. 
+
+Mathu, G.W. 1971. Gikuyu Marriage: Beliefs and Practices (Discussion Paper No. 17). Institute of African Studies, University of Nairobi.
+
+Monger, G.P. 2004. Marriage Customs of the World: From Henna to *Honeymoons.* California: 
+ABC–CLIO. 
+
+Nwosu, O. 1999. The African Woman - *Nigerian Perspective.* Lagos: BIMA Publications.
