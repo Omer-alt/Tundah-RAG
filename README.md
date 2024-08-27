@@ -15,7 +15,7 @@ You can also run notebook `Tundah.ipynb` directly in locally
 
 ### Project Structure 
 
-- `Final_Notebook_SGD_Final_Lab.ipynb`: This notebook outlines the sequential workflow of Tundah-RAG, providing a step-by-step process.
+- `Tundah.ipynb`: This notebook outlines the sequential workflow of Tundah-RAG, providing a step-by-step process.
 - `assets`: A repository for supplementary data that supports the project.
 
 - `Pdf_path`:This directory holds all the source PDFs, which serve as the information backbone for our RAG system.
