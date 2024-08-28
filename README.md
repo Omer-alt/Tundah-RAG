@@ -33,9 +33,9 @@ The dataset used to build the RAG system focuses on aspects related to customary
 ## Architecture 
 
 #### Global architecture
-![Global architecture](/Tundah-RAG/static/RAG_Architecture.png)
+![Global architecture](/static/RAG_Architecture.png)
 #### UML: Class Diagram
-![Class Diagram](/Tundah-RAG/static/RAG_Class_Diagram.png)
+![Class Diagram](/static/RAG_Class_Diagram.png)
 
 
 ## Setup
