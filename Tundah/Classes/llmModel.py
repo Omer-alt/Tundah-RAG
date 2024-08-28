@@ -1,3 +1,4 @@
+import streamlit as st
 from .model import Model
 
 from langchain_community.chat_models import ChatOllama
@@ -56,4 +57,33 @@ class LLMModel(Model):
         print("\n","-"*(4 + len(query)*4 ),"\n")
         print(f"Answer: {response.content}")
         return response.content
+    
+    # def infer(self, query, context):
+    #     # Update datasource context.
+    #     self.source.get_context(context)
+    #     prompt = self.get_prompt(query=query)
+
+    #     # Example input in the format expected by the model
+    #     input_data = [
+    #         {"role": "user", "content": prompt}
+    #     ]
+
+    #     # Prepare a placeholder for streaming content
+    #     response_placeholder = st.empty()
+
+    #     response = ""
+    #     # Assuming your LLM model can stream responses
+    #     for partial_response in self.llm.stream(input_data):
+    #         print("Partial response", partial_response)
+    #         response += partial_response["content"]
+    #         response_placeholder.markdown(f"**Assistant**: {response}")
+        
+    #     print("\n", "-"*(4 + len(query)), "\n")
+    #     print(f"QUERY: {query}")
+    #     print("\n", "-"*(4 + len(query)*4), "\n")
+    #     print(f"Answer: {response}")
+    #     return response
+    
+    
+
         

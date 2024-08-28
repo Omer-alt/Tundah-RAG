@@ -27,7 +27,7 @@ st.set_page_config(page_title="Chat Interface", page_icon=":speech_balloon:", la
 left_col, main_col, right_col = st.columns([2, 5, 2])
 
 # Sample chat list
-chat_list = ["Tundah", "Mariage", "PolyGami", "Divorce", "Children", "Tradition"]
+chat_list = ["Tundah", "Mariage", "PolyGamy", "Divorce", "Children", "Tradition"]
 
 def handle_submit():
     # Add user's message to session state
@@ -42,7 +42,7 @@ with left_col:
             f"""
             <div style="border-bottom: 1px solid #ddd; padding: 10px 0;">
                 <img src="https://via.placeholder.com/50" style="border-radius: 50%; vertical-align: middle; margin-right: 10px;">
-                <strong>{user}</strong><br>
+                <strong style="cursor: pointer;">{user}</strong><br>
             </div>
             """, unsafe_allow_html=True
         )
@@ -107,6 +107,10 @@ with main_col:
    
         query_embeded = embeddingModding.create_query_embeddings(st.session_state.new_message)
         context = storage.search_documents(query_embeded)
+        
+        # Insert a placeholder for the assistant's response
+        response_placeholder = st.empty()
+        
         response = llm.infer(st.session_state.new_message, context)
         st.session_state.messages.append(("assistant", response))
         st.session_state.input_message = ""

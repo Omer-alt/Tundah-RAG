@@ -5,7 +5,7 @@ class Datasource:
     docs_path = "Pdf_path/"
     output_path = "Structured_files/"
     output_dir = "Structured_files/"
-    max_token_limit = 384 
+    max_token_limit = 2048 
     token_char_ratio = 4
     max_chunk_size = max_token_limit * token_char_ratio
 

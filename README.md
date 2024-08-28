@@ -27,11 +27,15 @@ You can also run notebook `Tundah.ipynb` directly in locally
 - `main.py`: Provides a command-line interface for testing the code.
 - `streamlit.py`:The Streamlit interface facilitates a seamless user-RAG interaction, enhancing usability.
 
+## Dataset 
+The dataset used to build the RAG system focuses on aspects related to customary marriages in 10 African countries: Cameroon, Kenya, Nigeria, South Africa, Zimbabwe, Tanzania, Uganda, Botswana, and Mali. Currently, the data is sourced from two main channels: cultural articles/books and YouTube videos. In the future, we plan to perform web scraping on websites and blogs that are rich in reliable and accessible information.
 
 ## Architecture 
-Coming soon
+
 #### Global architecture
+![Global architecture](/Tundah-RAG/static/RAG_Architecture.png)
 #### UML: Class Diagram
+![Class Diagram](/Tundah-RAG/static/RAG_Class_Diagram.png)
 
 
 ## Setup
@@ -82,6 +86,9 @@ Run with streamlit interface
 streamlit run streamlit.py
 ```
 
+## Limitations 
+-  One significant limitation is the availability of datasets. To address this, I considered using transcripts from YouTube videos. However, another significant challenge arises: the videos deemed relevant by local communities are often in low-resource languages (Example: [Customary marriages in Ghana](https://www.youtube.com/watch?v=5pmEDELq4wA)), which impacts the quality of embeddings and the performance of Large Language Models (LLMs) in such contexts. This issue is highlighted in the recent paper '[IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://arxiv.org/abs/2406.03368)`.
+
 ## Perspective
 - Creating a Docker Image for the RAG System
 - Implementing CI/CD for the RAG System
@@ -99,6 +106,11 @@ Tutorials that can help to better understand this project.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+------------------------------------------------------------------------------------------------------------
+
+⭐️ If you find this repository helpful, we’d be thrilled if you could give it a star! 
+
 
 
 
