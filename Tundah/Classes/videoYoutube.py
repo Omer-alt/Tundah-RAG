@@ -17,15 +17,16 @@ class VideoYoutube(Datasource):
         super().__init__() # Get the contructor of the mother classe
 
 
-    def get_transcription(self):
+    def get_transcription(self, video_id):
         # max_chars: maximum number of characters that can be translated by google translate
         max_chars = 4998
-        translator = GoogleTranslator(source='auto', target=self.utility.languages )
+        target_language = 'en'
+        translator = GoogleTranslator(source='auto', target=target_language )
 
         try:
             # Get the transcript using the YouTubeTranscriptApi
             transcript = YouTubeTranscriptApi.get_transcript(
-                self.video_id, 
+                video_id, 
                 languages=self.utility.languages
             )
 
@@ -46,7 +47,7 @@ class VideoYoutube(Datasource):
 
             return translated_transcript
         except NoTranscriptFound:
-            print(f"No transcript found for video ID: {self.video_id}")
+            print(f"No transcript found for video ID: {video_id}")
             return None
         
         
@@ -77,7 +78,7 @@ class VideoYoutube(Datasource):
             video_id = video_url.split('v=')[-1]
             
             # Get the full transcript for single video
-            translated_text = self.get_transcription(video_id, target_language=target_language)
+            translated_text = self.get_transcription(video_id)
             
             if translated_text is None:
                 continue  # Skip this video if no transcript is found

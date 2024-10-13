@@ -1,0 +1,756 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "ABSTRACT",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "INTRODUCTION",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "DATA AND METHODS",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                232.0,
+                0.0
+            ]
+        },
+        {
+            "title": "CULTURAL CONTEXT",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                439.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Current nuptiality",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                397.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Age at first marriage",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 10,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                439.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 9,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                335.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 8,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                335.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                335.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 2 about here",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                335.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 5,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                583.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 6,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                583.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Polygyny",
+            "level": 7,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                583.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Graph 1 about here",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                252.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 3 about here",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 4 about here",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                521.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Socio-economic context and nuptiality",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                397.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Age at first marriage",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                542.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                542.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                542.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 5 about here",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                542.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Case study 1 about here",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                411.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Polygyny",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 16,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                542.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                542.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                542.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 6 about here",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                542.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 7 about here",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                156.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 8 about here",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                625.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                204.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                204.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 9 about here",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                204.0,
+                0.0
+            ]
+        },
+        {
+            "title": "DISCUSSION",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                376.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                661.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                661.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                661.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 5,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                661.0,
+                0.0
+            ]
+        },
+        {
+            "title": "All men",
+            "level": 6,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                661.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Kenya",
+            "level": 6,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                564.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Total",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                478.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                466.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                466.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                466.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                466.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 5,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                466.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Tanzania",
+            "level": 6,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                466.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 6: Measures of polygyny by education (schooling and languages spoken) and country",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 7: Polygyny levels for sub-Saharan African pastoralist societies*",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Table 8: Indicators of polygyny, by livelihood, Maasai.*",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                728.0,
+                0.0
+            ]
+        },
+        {
+            "title": "p",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                699.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Graph 1 References",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                451.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 35,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 68,
+        "code": 0,
+        "table": 7,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

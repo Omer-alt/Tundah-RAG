@@ -19,6 +19,7 @@ class Storage:
 
     def insert_to_qdriant(self, vectors, meta_data):
         # Insert data
+        print("Insertion into Vector DATA Base...")
         for index, row in enumerate( zip(vectors, meta_data) ):
             self.client.upsert(
                 collection_name=self.collection_name,

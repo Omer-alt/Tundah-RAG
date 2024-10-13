@@ -1,4 +1,3 @@
-import streamlit as st
 from .model import Model
 
 from langchain_community.chat_models import ChatOllama

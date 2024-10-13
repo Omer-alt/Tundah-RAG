@@ -1,6 +1,8 @@
 import os
 
 from marker.output import save_markdown
+from marker.models import load_all_models
+from marker.convert import convert_single_pdf
 
 from .data_source import *
 from .model import *
@@ -19,6 +21,7 @@ class Pdf(Datasource):
     def __init__(self):
         super().__init__()
         self.base_json = "tundah"
+        self.model_lst = load_all_models()
         
 
     def get_file_path(self):
@@ -33,16 +36,16 @@ class Pdf(Datasource):
             if os.path.isfile(file_path) and file.lower().endswith('.pdf'):
                 try:
                     # Perform PDF extraction
-                    full_text, images, out_meta = ShunkHandler.convert_single_pdf(file_path)
+                    full_text, images, out_meta = convert_single_pdf(file_path, self.model_lst)
                     
                     # Split full text into chunks
                     chunks = ShunkHandler.split_into_chunks(full_text, self.max_chunk_size)
                     
                     # Prepare chunks with metadata
                     structured_chunks = []
-                    for _, chunk in enumerate(chunks):
+                    for i, chunk in enumerate(chunks):
                         structured_chunks.append({
-                            'page_number': out_meta.get('page_number', 'N/A'),
+                            'chunk_number_from_file': i,
                             'sentence_chunk': chunk,
                             'chunk_char_count': len(chunk),
                             'chunk_word_count': len(chunk.split()),
@@ -63,9 +66,10 @@ class Pdf(Datasource):
                     self.utility.append_to_json(json_output_path, filtered_chunks)
                     
                     print(f"Saved markdown and JSON to the {subfolder_path} folder")
-                    return self.chunks_final_state
+                    return self.list_paload_pdf
                 
                 except Exception as e:
                     print(f"Error processing file {file_path}: {e}")
 
         print("Processing completed.")
+        

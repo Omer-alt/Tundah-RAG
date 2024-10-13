@@ -50,6 +50,8 @@ markerModel = MarkerModel()
 llm = LLMModel()
 storage = Storage()
 
+json_video_path = "./Transcript_path/Videos.json"
+
 def main():
     # Global Utility
     main_utility = Utility()
@@ -64,19 +66,25 @@ def main():
     model_lst = markerModel.model_lst
     
     # Get PDFs files paths
-    files_path = pdf_objects.get_file_path()
-    print(files_path)
+    # files_path = pdf_objects.get_file_path()
+    # print(files_path)
     # print(os.getcwd())
      
     # Ensure output directory exists
-    main_utility.create_dir(pdf_objects.output_dir)
+    # main_utility.create_dir(pdf_objects.output_dir)
     
-    # chunks_final_state = pdf_objects.pdf_shunk_list()
+    chunks_final_state = pdf_objects.pdf_shunk_list()
     
-    # vectors = embeddingModding.create_embeddings(chunks_final_state)
+    vectors = embeddingModding.create_embeddings(chunks_final_state)
+    
+
+    # videos_shunk_list = youtube_video.transcriptions_shunk_list()
+    
+    # videos_vectors = embeddingModding.create_embeddings(videos_shunk_list)
     
     # Insertion in Qdrant database.
-    # storage.insert_to_qdriant(vectors, chunks_final_state)
+    # storage.insert_to_qdriant(videos_vectors, videos_shunk_list)
+    storage.insert_to_qdriant(vectors, chunks_final_state)
     
     # query = "What are the traditional steps involved in a Luo customary marriage?" 
     # query = "What are the traditional steps involved in Zimbabwe customary marriage?"

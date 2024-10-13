@@ -1,0 +1,310 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Title",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                753.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Abstract",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                680.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Keywords",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                503.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                468.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Methods and materials  ",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                309.0,
+                304.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Study design  ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                309.0,
+                234.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Selection of research participants  ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                309.0,
+                156.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Data collection  ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                722.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Data collection tools and procedure ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                472.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Data analysis ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                301.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Presentation of findings and discussion ",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                234.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Perceptions of marriage, man, woman and land ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                143.0,
+                0.0
+            ]
+        },
+        {
+            "title": "/Aluk/ Marriage and how the Beti perceive it ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                309.0,
+                647.0,
+                0.0
+            ]
+        },
+        {
+            "title": "/Pam/ Man and the perceptions of the Beti people about man ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                272.0,
+                0.0
+            ]
+        },
+        {
+            "title": "/Min\u2019nga/ A woman, how the Beti perceive her  ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "/Si/ Land and its perception by the Betis ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                309.0,
+                408.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The relationship between a woman and land ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                309.0,
+                448.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                712.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Acknowledgments",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                47.0,
+                427.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Conflicts of interests ",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                309.0,
+                762.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Funding",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                309.0,
+                726.0,
+                0.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                309.0,
+                689.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 9,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 24,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

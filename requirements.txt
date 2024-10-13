@@ -9,3 +9,5 @@ marker-pdf
 sentence-transformers
 qdrant-client
 langchain-community
+youtube-transcript-api==0.6.2
+deep-translator==1.11.4

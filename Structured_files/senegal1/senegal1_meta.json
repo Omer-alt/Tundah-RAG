@@ -1,0 +1,275 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                769.8900146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Marriage Payments in Senegal",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.5689697265625,
+                0.0
+            ]
+        },
+        {
+            "title": "Bride-Price, Cadeau and Bagage",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                672.0459594726562,
+                0.0
+            ]
+        },
+        {
+            "title": "Conceptual framework.",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                378.6020202636719,
+                0.0
+            ]
+        },
+        {
+            "title": "Data and Descriptive Statistics",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                375.4629821777344,
+                0.0
+            ]
+        },
+        {
+            "title": "Data",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                329.6679992675781,
+                0.0
+            ]
+        },
+        {
+            "title": "Correlates of Marriage Payments",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                378.3169860839844,
+                0.0
+            ]
+        },
+        {
+            "title": "Who draws in which marriage payments?",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                329.79400634765625,
+                0.0
+            ]
+        },
+        {
+            "title": "The impact of transitory shocks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 25,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                769.8900146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Wives' wellbeing",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                769.8900146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Empirical strategy",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                730.072021484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Results",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                480.5950012207031,
+                0.0
+            ]
+        },
+        {
+            "title": "Robustness Analysis",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                769.8900146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Selection on the year of marriage",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                502.6300048828125,
+                0.0
+            ]
+        },
+        {
+            "title": "First marriages",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                306.8809814453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Selection on the residence status",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 38,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                524.4400024414062,
+                0.0
+            ]
+        },
+        {
+            "title": "Heterogeneity by consumption level",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                502.51800537109375,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                769.8900146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                769.8900146484375,
+                0.0
+            ]
+        }
+    ],
+    "pages": 59,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 0,
+        "ocr_success": 1,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 28,
+        "equations": {
+            "successful_ocr": 15,
+            "unsuccessful_ocr": 2,
+            "equations": 17
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

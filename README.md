@@ -72,9 +72,9 @@ jupyter notebook
 
 Lunch docker, run   Qdrant, run ollama
 ```
-open -a docker
-docker run -p ['Qdriant_id'] 
-ollama run llama2:7b-chat-q4_0
+    open -a docker
+    docker start ['Qdriant_id'] | docker run -p 6333:6333 qdrant/qdrant:latest
+    ollama run llama2:7b-chat-q4_0
 
 ```
 Run in the console
@@ -83,7 +83,7 @@ python main.py
 ```
 Run with streamlit interface
 ```
-streamlit run streamlit.py
+streamlit run app.py
 ```
 
 ## Limitations 
