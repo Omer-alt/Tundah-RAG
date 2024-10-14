@@ -1,3 +1,5 @@
+import os
+import base64
 import streamlit as st
 from PIL import Image
 
@@ -19,7 +21,7 @@ main_utility = Utility()
 
 # Define device
 device = Utility.get_device()
-
+image_directory = "static/" 
 # Set up page configuration
 st.set_page_config(page_title="Chat Interface", page_icon=":speech_balloon:", layout="wide")
 
@@ -27,21 +29,23 @@ st.set_page_config(page_title="Chat Interface", page_icon=":speech_balloon:", la
 left_col, main_col, right_col = st.columns([2, 5, 2])
 
 # Sample chat list
-chat_list = ["Tundah", "Mariage", "PolyGamy", "Divorce", "Children", "Tradition"]
+chat_list = ["Tundah", "Cameroon", "Kenya", "Senegal"]
 
 def handle_submit():
     # Add user's message to session state
     st.session_state.messages.append(("user", st.session_state.new_message))
     
 
-# Left column - List of chats
+# Left column - List of chats  # <img src="https://via.placeholder.com/50" style="border-radius: 50%; vertical-align: middle; margin-right: 10px;"> 
 with left_col:
     st.markdown('<div class="fixed-column-left">', unsafe_allow_html=True)
     for user in chat_list:
+        image_path = os.path.join(image_directory, f"{user.lower()}.png")
         st.markdown(
             f"""
-            <div style="border-bottom: 1px solid #ddd; padding: 10px 0;">
-                <img src="https://via.placeholder.com/50" style="border-radius: 50%; vertical-align: middle; margin-right: 10px;">
+            <div style="border-bottom: 1px solid #ddd; padding: 10px 0;"
+                # <img src="https://via.placeholder.com/50" style="border-radius: 50%; vertical-align: middle; margin-right: 10px;">
+                <img src="data:image/png;base64,{base64.b64encode(open(image_path, 'rb').read()).decode()}" style="border-radius: 50%; vertical-align: middle; margin-right: 10px; width: 24px; height: 24px;">
                 <strong style="cursor: pointer;">{user}</strong><br>
             </div>
             """, unsafe_allow_html=True
@@ -127,16 +131,24 @@ with main_col:
 
 # Right column - User profile with violet background 
 with right_col:
+    
+    right_log_path = 'static/tundah.png' # os.path.join('static', 'tundah.png')
+
+    # Encode the image to base64
+    with open(right_log_path, 'rb') as img_file:
+        base64_img = base64.b64encode(img_file.read()).decode()
+        
+    image_path = os.path.join(image_directory, f"{chat_list[0].lower()}.png")
     st.markdown('<div class="fixed-column-right">', unsafe_allow_html=True)
     # Display image
     # st.image(image, use_column_width=False)
 
     # Afficher l'image  
-    # st.image(image, use_column_width=False)
+    # st.image(image, use_column_width=False) # <img src="https://via.placeholder.com/100" style="border-radius: 50%;">  <img src="data:image/png;base64,{base64.b64encode(open('static/tundah', 'rb').read()).decode()}" style="border-radius: 50%; vertical-align: middle; margin-right: 10px; width: 100px; height: 100px;"> <img src="data:image/png;base64,{base64_img}" style="border-radius: 50%; vertical-align: middle; margin-right: 10px; width: 100px; height: 100px; z-index: 10; position: relative;">
     st.markdown(
         """
         <div style="background-color: #7873a5; text-align: center; color: white; margin-left: 40px; width: 100%; position: absolute; top: 50px;">
-            <img src="https://via.placeholder.com/100" style="border-radius: 50%;">
+            <img src="data:image/png;base64,{base64.b64encode(open(image_path, 'rb').read()).decode()}" style="border-radius: 50%; vertical-align: middle; margin-right: 10px; width: 100px; height: 100px;">
             <h2 style="color: white;">Tündah</h2>
             <p >African Heritage</p>
             <p style="font-size: 18px; text-align: justify;" >

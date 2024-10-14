@@ -27,7 +27,6 @@ from qdrant_client.models import Distance, VectorParams
 # from langchain_community.vectorstores import Qdrant
 from qdrant_client import QdrantClient
 
-
 from langchain_community.chat_models import ChatOllama
 
 from Tundah.Classes.utility import Utility
@@ -51,6 +50,7 @@ llm = LLMModel()
 storage = Storage()
 
 json_video_path = "./Transcript_path/Videos.json"
+
 
 def main():
     # Global Utility
